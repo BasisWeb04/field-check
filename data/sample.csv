@@ -1,0 +1,61 @@
+id,business_name,phone,email,website,street,city,state,zip,hours
+FC-001,Copperleaf Tailoring,(206) 555-0101,hello@copperleaftailoring.example,https://copperleaftailoring.example,5412 Ballard Ave NW,Seattle,WA,98107,Mon-Fri 10:00-18:00; Sat 10:00-16:00; Sun closed
+FC-002,Juniper Row Florist,(512) 555-0102,shop@juniperrowflorist.example,juniperrowflorist.example,1807 S 1st St,Austin,TX,78704,Mon-Sat 9am-6pm; Sun closed
+FC-003,Pine Hollow Hardware,555-0103,service@pinehollowhardware.example,https://pinehollowhardware.example,77 Depot St,Montpelier,VT,05602,Mon-Sat 8:00-18:00; Sun 10:00-16:00
+FC-004,Tin Kettle Coffee,(208) 555-0104,hi@tinkettle.example,https://tinkettle.example,318 N 8th St,Boise,ID,83702,Daily 6:30-18:00
+FC-005,Tin Kettle Coffee,(208) 555-0105,hi@tinkettle.example,https://tinkettle.example,2900 W Overland Rd,Boise,ID,83705,Daily 6:30-18:00
+FC-006,Marigold Stitch Upholstery,(614) 555-0106,marigoldstitch@mail.example,https://marigoldstitch.example,889 N High St,Columbus,OH,43215,Mon-Fri 9:00-17:00
+FC-007,Bluefern Pet Grooming,(411) 555-0107,book@bluefernpets.example,https://bluefernpets.example,4410 Wornall Rd,Kansas City,MO,64111,Tue-Sat 8:00-17:00; Sun-Mon closed
+FC-008,Saltmarsh Books,(843) 555-0108,desk@saltmarshbooks.example,https://saltmarshbooks.example,211 King St,Charleston,SC,29401,Mon-Sat 10:00-19:00; Sun 12:00-17:00
+FC-009,Harbor Line Bakery,(503) 555-0109,orders@harborlinebakery.example,https://harborlinebakery.example,2140 NE Alberta St,Portland,OR,97211,Tue-Sun 7:00-15:00; Mon closed
+FC-010,Ironwood Bicycle Works,(303) 555-0110,shop@ironwoodbikes.example,https://ironwoodbikes.example,1655 Platte St,Denver,CO,80202,Mon-Fri 10:00-19:00; Sat-Sun 9:00-17:00
+FC-011,Quarry Lane Laundromat,(412) 555-0111,wash@quarrylane.example,,1908 E Carson St,Pittsburgh,PA,15203,Daily 6:00-22:00
+FC-012,Greywater Plumbing Co.,(614) 555-PIPE,dispatch@greywaterplumbing.example,https://greywaterplumbing.example,2250 Cleveland Ave,Columbus,OH,43211,Mon-Fri 7:00-18:00; Sat 8:00-12:00
+FC-013,Lantern Hill Dental Studio,(919) 555-0113,front@lanternhilldental.example,https://lanternhilldental.example,410 Glenwood Ave,Raleigh,NC,27603,"Mon-Thu 8:00-12:00, 13:00-17:00; Fri 8:00-13:00"
+FC-014,Red Cedar Framing,(612) 555-0114,info@redcedarframing.example,http://redcedarframing.example,3012 Lyndale Ave S,Minneapolis,MN,55408,Tue-Sat 10:00-18:00
+FC-015,Blue Mesa Auto Glass,(050) 555-0115,quotes@bluemesaglass.example,https://bluemesaglass.example,3301 Menaul Blvd NE,Albuquerque,NM,87107,Mon-Fri 8:00-17:30
+FC-016,Fox and Fennel Catering,(615) 555-0116,foxandfennel.events@inbox.example,https://foxandfennel.example,2716 12th Ave S,Nashville,TN,37204,Mon-Fri 9:00-17:00; Sat 10:00-14:00
+FC-017,Wrenfield Hardware,(802) 555-0117,counter@wrenfieldhardware.example,https://wrenfieldhardware.example,156 Pearl St,Burlington,VT,05401,Mon-Sat 7:30-18:00; Sun 9:00-15:00
+FC-018,Kestrel Yoga Loft,(720) 555-0118,studio@kestrelyoga.example,https://kestrelloft.example,3350 Brighton Blvd,Denver,CO,80216,Mon-Fri 6:00-20:00; Sat-Sun 8:00-12:00
+FC-019,Oak and Anvil Barbers,(317) 555-0119,chairs@oakandanvil.example,https://oakandanvil.example,1043 Virginia Ave,Indianapolis,IN,46203,Tue-Fri 10:00-19:00; Sat 9:00-15:00
+FC-020,Sunbeam Laundry Co.,(303) 555-0120,hello@sunbeamlaundry.example,https://sunbeamlaundry.example,3800 Tejon St,Denver,CO,94107,Daily 7:00-21:00
+FC-021,Stillwater Tax Prep,(405) 555-0121,office@stillwatertax.example,https://stillwatertax.example,5801 N Western Ave,Oklahoma City,OK,73118,
+FC-022,Birchbark Kids Books,(608) 555-0122,read@birchbarkbooks.example,https://birchbarkbooks.example,422 State St,Madison,WI,53703,Mon-Sat 10:00-18:00; Sun 11:00-16:00
+FC-023,Kettleworks Supply,(971) 555-0123,orders@@kettleworks.example,https://kettleworks.example,1234 SE Division St,Portland,OR,97202,Mon-Fri 9:00-17:00
+FC-024,Driftwood Nail Bar,(904) 555-0124,book@driftwoodnails.example,https://driftwoodnails.example,1020 Park St,Jacksonville,FL,32204,Tue-Sat 10am-7pm; Sun-Mon closed
+FC-025,Cobalt Key Locksmith,(602) 555-0125,jobs@cobaltkey.example,https://cobaltkey.example,2001 N 7th St,Phoenix,AZ,85006,9 to 5 weekdays
+FC-026,Moss and Mortar Landscaping,(404) 555-0126,crew@mossandmortar.example,https://mossandmortar.example,675 Ponce De Leon Ave NE,Atlanta,GA,30308,Mon-Fri 7:00-16:00; Sat-Sun closed
+FC-027,Longhorn Leather Repair,(210) 555-0127,,https://longhornleather.example,1515 S Presa St,San Antonio,TX,78210,Mon-Fri 9:00-18:00; Sat 10:00-14:00
+FC-028,Pebble Creek Pharmacy,(123) 555-0128,rx@pebblecreekrx.example,https://pebblecreekrx.example,3805 Bardstown Rd,Louisville,KY,40218,Mon-Fri 9:00-19:00; Sat 9:00-14:00
+FC-029,Northgate Tile and Stone,(313) 555-0129,sales@northgatetile.example,https://northgatetile.example,7430 Woodward Ave,Detroit,MI,48202,Mon-Fri 8:00-17:00; Sat 9:00-13:00
+FC-030,Two Rivers Print Shop,(402) 555-0130,jobs@tworiversprint.example,https://tworiversprint.example,1215 Harney St,Omaha,NE,68102,Mon-Fri 8:30-17:30
+FC-031,  harbor line   BAKERY,503.555.0109,orders@harborlinebakery.example,harborlinebakery.example,2140 NE Alberta Street,Portland,OR,97211,Tue-Sun 7:00-15:00; Mon closed
+FC-032,Hollow Oak Veterinary,(207) 555-0132,hollowoakvet@mail.example,https://hollowoakvet.example,400 Forest Ave,Portland,ME,04101,Mon-Fri 8:00-18:00; Sat 8:00-12:00
+FC-033,Canyon Rim Outfitters,(801) 555-0133,gear@canyonrimoutfitters.example,https://canyonrimoutfitters.example,1320 S State St,Salt Lake City,UT,84115,Mon-Sat 9:00-19:00; Sun 11:00-17:00
+FC-034,Magnolia Porch Cafe,(214) 555-0134,eat@magnoliaporch.example,https://magnoliaporch.example,2810 Main St,Dallas,TX,30301,Tue-Sun 8:00-15:00
+FC-035,Whistle Stop Hobby,(316) 555-0135,trains@whistlestophobby.example,https://whistlestophobby.example,612 E Douglas Ave,Wichita,KS,67202,Tue-Sat 10:00-18:00
+FC-036,Riverbend Shoe Repair,(225) 555-0136,fixes@riverbendshoes.example,,3056 Government St,Baton Rouge,LA,70806,Mon-Fri 9:00-17:00
+FC-037,Silver Birch Massage,(303) 555-0137,relax@silverbirchmassage.example,https://silverbirchmassage.example,55 S Broadway,Denver,CO,8021,Mon-Sat 10:00-20:00
+FC-038,Granite State Glassworks,(603) 555-0138,studio@granitestateglass.example,https://granitestateglass.example,88 N Main St,Concord,NH,03301,Wed-Sun 11:00-17:00; Mon-Tue closed
+FC-039,Bayou Lantern Records,(504) 555-0139,crates@bayoulantern.example,https://bayoulantern.example,2315 Chartres St,New Orleans,LA,70117,Daily 12:00-20:00
+FC-040,Night Owl Diner,(702) 555-0140,hello@nightowldiner.example,https://nightowldiner.example,1100 Fremont St,Las Vegas,NV,89101,Mon-Fri 9:00-25:00
+FC-041,Lamplighter Tavern,(414) 555-0141,bar@lamplightertavern.example,https://lamplightertavern.example,1830 N Farwell Ave,Milwaukee,WI,53202,Wed-Sun 16:00-01:00; Mon-Tue closed
+FC-042,Clearwater Accounting,(727) 555-0142,team@clearwateraccounting.example,https://clearwateraccounting.example,600 Cleveland St,Clearwater,FL,33755,
+FC-043,Aspen Hollow Guitars,(406) 555-0143,shop@aspenhollowguitars.example,https://aspenhollowguitars.example,215 N Higgins Ave,Missoula,MT,59802,Tue-Sat 11:00-18:00
+FC-044,Prairie Sky Movers,(701) 555-0144,dispatch@prairieskymoving.example,https://prairieskymovers.example,1402 1st Ave N,Fargo,ND,58102,Mon-Sat 7:00-19:00
+FC-045,Cardinal Street Pediatrics,(513) 555-0145,appointments@mail.cardinalpeds.example,https://www.cardinalpeds.example,3200 Burnet Ave,Cincinnati,OH,45229,Mon-Fri 8:00-17:00
+FC-046,Summit Ridge Roofing,(865) 555-0146,,https://summitridgeroofing.example,2400 N Broadway St,Knoxville,TN,37917,Mon-Fri 7:00-17:00
+FC-047,Little Harbor Chandlery,(401) 555-0147,dock@littleharborchandlery.example,https://littleharborchandlery.example,45 Thames St,Newport,RI,02840,Daily 8:00-18:00
+FC-048,Wildflower Pottery Studio,,clay@wildflowerpottery.example,https://wildflowerpottery.example,118 W 3rd St,Tulsa,OK,74103,Thu-Sun 10:00-17:00
+FC-049,Evergreen Sign Co.,(360) 555-0149,signs@evergreensignco.example,https://evergreensignco.example,520 4th Ave E,Olympia,WA,98501,Mon-Fri 8:00-16:30
+FC-050,Chesapeake Twine Mercantile,(410) 555-0150,shop@chesapeaketwine.example,https://chesapeaketwine.example,12 Market Space,Annapolis,MD,21305,Mon-Sat 10:00-18:00
+FC-051,Copper Pot Soup Kitchen,(317) 555-0151,soup@copperpotsoup.example,http//copperpotsoup.example,2110 E 10th St,,IN,46201,Mon-Fri 11:00-15:00
+FC-052,Tidewater Cycle Rentals,(757) 555-0152,ride@tidewatercycles.example,https://tidewatercycles.example,1805 Atlantic Ave,Virginia Beach,VA,23451,Daily 9:00-19:00
+FC-053,Hilltop Sewing Machine Repair,(412) 555-0153,hilltopsewing@inbox.example,https://hilltopsewing.example,1720 Arlington Ave,Pittsburgh,PA,15210,Tue-Sat 10:00-16:00
+FC-054,High Plains Feed and Seed,(307) 555-0154,orders@highplainsfeed.example,https://highplainsfeed.example,1900 W Lincolnway,Cheyenne,WY,82001,Mon-Sat 7:00-18:00; Sun closed
+FC-055,Anchor Point Marine Supply,(907) 555-0155,parts@anchorpointmarine.example,https://anchorpointmarine.example,3400 Spenard Rd,Anchorage,AK,99503,Mon-Fri 8:00-18:00; Sat 9:00-17:00
+FC-056,Coral Thread Alterations,(305) 555-0156,fit@coralthread.example,https://coralthread.example,2700 SW 27th Ave,Miami,FL,33133,Mon-Sat 9:30-18:30
+FC-057,Red Rock Bookkeeping,(702) 555-0157,ledger@redrockbookkeeping.example,,4750 W Sahara Ave,Las Vegas,NV,89102,Mon-Fri 9:00-17:00
+FC-058,Maple Hollow Creamery,(802) 555-0158,scoops@maplehollowcreamery.example,https://maplehollowcreamery.example,1 Main St,Stowe,VT,05672,Daily 11:00-21:00
+FC-059,Lakeshore Piano Tuning,(773) 555-0159,tune@lakeshorepiano.example,https://lakeshorepiano.example,2951 N Clark St,Chicago,IL,60657,Mon-Fri 9:00-17:00
+FC-060,Honeycomb Print and Frame,515-555-016,studio@honeycombprint.example,https://honeycombprint.example,400 Locust St,Des Moines,IA,50309,Tue-Sat 10:00-17:00

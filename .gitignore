@@ -1,0 +1,11 @@
+node_modules
+dist
+.next
+.vercel
+coverage
+.env*
+out
+
+.vercel
+
+.shots
